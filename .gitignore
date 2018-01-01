@@ -1,0 +1,13 @@
+target/
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+**/HRManager/db/derby.log.txt
+**/HRManager/db/derby.log
+**/HRManager/db/db
+**/HRManager/.idea
+**/HRManager/HRManager.iml
+
+# Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
+!/.mvn/wrapper/maven-wrapper.jar
